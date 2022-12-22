@@ -1,0 +1,40 @@
+/* General setup */
+
+html {
+    font-size: 10px;
+    margin: 0;
+    font-family: 'Yatra One', 'Rozha';
+
+
+  }
+  
+  body {
+    background-color: rgba(9, 240, 240, 0.927);
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  /* Typography */
+  
+  h1 {
+    width: 50%;
+    border-radius: 5px;
+    background-color: rgb(9, 240, 240);
+    font-family: 'Yatra One';
+    font-size: 3.2rem;
+  }
+  
+  h2 {
+    width: 50%;
+    border-radius: 5px;
+    background-color:rgb(9, 240, 240);
+    font-size: 2.4rem;
+    font-family: 'Rozha';
+  }
+  
+  p {
+    font-size: 1.4rem;
+    line-height: 1.6;
+    word-spacing: 0.6rem;
+  }
